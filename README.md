@@ -1,7 +1,3 @@
-# Spring MVC
-M : MOdel
-V : View
-C : Controller
-      
+SpringBoot - Hibernate - SpringSecurity - Thymeleaf  - RestAPI - AngularJs - Lombok
         
         
